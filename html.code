@@ -1,0 +1,12 @@
+<html>
+    <title>Ханаби - Mobile Legends</title>
+        <body>
+            <header>
+                    <a href="">На главную</a>
+                    <a href="#">Сборка</a>
+                    <a href="#">Заклинание</a>
+                    <a href="#">Как играть</a>
+                    <a href="#">История/Инфа</a>
+                </header>
+                <main>
+                    <h1>Ханаби<img src="https://cdn.oneesports.gg/cdn-data/2022/12/MLBB_Revamped_2022_Hanabi.jpg" class="img"/></h1>
