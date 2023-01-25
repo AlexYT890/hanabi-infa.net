@@ -1,0 +1,33 @@
+body  {
+    font-size: 25px;
+    font-family: candara;
+}
+header  {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+header a  {
+    color: black;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 10px;
+    margin-right: 100px;
+    text-decoration: dashed;
+    font-size: 40px;
+}
+main h1  {
+    font-family: segoe script;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 116px;
+    text-align: center;
+}
+.img  {
+    height: 924px;
+    width: 1643px;
+}
